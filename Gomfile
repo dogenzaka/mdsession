@@ -1,0 +1,4 @@
+gom 'github.com/gin-gonic/gin'
+gom 'gopkg.in/mgo.v2'
+gom 'github.com/mitchellh/mapstructure'
+gom 'github.com/liverpool-music/mds'
