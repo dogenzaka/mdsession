@@ -14,7 +14,7 @@ Middleware which sets up an established database session according to a request 
 
 # Requirements
 
-- [mds](https://github.com/liverpool-music/mds)
+- [mds](https://github.com/dogenzaka/mds)
   - [mgo](https://github.com/go-mgo/mgo)
   - [gin](github.com/gin-gonic/gin)
   - [mapstructure](https://github.com/mitchellh/mapstructure)

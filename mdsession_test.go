@@ -10,7 +10,7 @@ import (
 	mgo "gopkg.in/mgo.v2"
 
 	"github.com/gin-gonic/gin"
-	"github.com/liverpool-music/mds"
+	"github.com/dogenzaka/mds"
 	"fmt"
 )
 
